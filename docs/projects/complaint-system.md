@@ -81,7 +81,7 @@ and Werkzeug password hashing.
   - After submission, a unique tracking ID (e.g., CM_12345678) is generated.
   - Users can use the "Track your issue" widget to check the live status.
     
-<img width="1223" height="924" alt="cms-customer" src="https://github.com/user-attachments/assets/9750e5f7-7639-46d9-a79a-af71e74a2fa4" />
+<img width="1223" height="924" alt="cms-customer" src="https://github.com/user-attachments/assets/fb314f0c-5ad9-4972-9a42-3ad173ea5acb" />
 
 2. Admin Dashboard (http://127.0.0.1:5000/admin):
   - To access the dashboard, navigate to the login page.
@@ -90,7 +90,7 @@ and Werkzeug password hashing.
     Password: admin123
   - Admins can view list of complaints records, filter by Category, Status, or Priority, 
     search by ID, and update ticket statuses.
-
-<img width="1214" height="943" alt="cms-admin" src="https://github.com/user-attachments/assets/1f1dc136-d37d-48d8-a8a3-dea93cfba4a8" />
+    
+    <img width="1636" height="960" alt="admin-view" src="https://github.com/user-attachments/assets/eeb9441a-90a2-4ee4-af19-89262095700e" />
 
 [View Source Code on GitHub](https://github.com/swayan-basu/complaint-management-system)
