@@ -36,7 +36,6 @@ chmod +x start_main.sh
 find scripts -type f -name '*.sh' -exec chmod +x {} + (optional)
 ./start_main.sh
 ```
-<img width="1214" height="758" alt="wazuh52" src="https://github.com/user-attachments/assets/9121d4cc-71b2-494d-b9cd-5d38e9e74420" />
 
 ## Direct Service Launchers
 
@@ -60,7 +59,7 @@ bash scripts/siem/start_elk.sh
 bash scripts/siem/start_wazuh.sh
 bash scripts/siem/start_wazuh_agent.sh
 ```
-<img width="1215" height="759" alt="wazuh02" src="https://github.com/user-attachments/assets/05ae7ed9-a708-45bf-b291-5f949a39193c" />
+<img width="1214" height="758" alt="wazuh52" src="https://github.com/user-attachments/assets/9121d4cc-71b2-494d-b9cd-5d38e9e74420" />
 
 ## Distribution
 
