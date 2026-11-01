@@ -26,7 +26,7 @@ theme:
 
   features:
     - navigation.expand
-    - content.code,copy
+    - content.code.copy
     - navigation.tabs
     - search.suggest
     - search.highlight
@@ -37,5 +37,8 @@ nav:
   - Home: index.md
   - Web Testing Labs:
        -  DVWA Assessment: web-testing/dvwa-report.md
+  - Projects:
+      - Instant Lab: projects/instant-lab.md
+      - Complaint Management System: projects/complaint-system.md
   #- TryHackMe:
   #     - Walkthroughs: tryhackme/index.md
